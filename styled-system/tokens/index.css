@@ -1,0 +1,20 @@
+@layer tokens {
+    :where(:root, :host) {
+  --colors-primary: #000000;
+  --colors-primary-text: #FFFFFF;
+  --colors-disabled: #1D1D1F0A;
+  --colors-disabled-text: #1D1D1F;
+  --colors-divider: #ECECEC;
+  --breakpoints-sm: 640px;
+  --breakpoints-md: 768px;
+  --breakpoints-lg: 1024px;
+  --breakpoints-xl: 1280px;
+  --breakpoints-2xl: 1536px;
+  --sizes-breakpoint-sm: 640px;
+  --sizes-breakpoint-md: 768px;
+  --sizes-breakpoint-lg: 1024px;
+  --sizes-breakpoint-xl: 1280px;
+  --sizes-breakpoint-2xl: 1536px
+}
+  }
+  
